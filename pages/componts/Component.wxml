@@ -1,0 +1,12 @@
+<template name="Component">
+ 
+  <text style='color:red'>hello complate</text>
+  <text class='mytext'>hello complate2</text>
+  <text class='mytext'>name:{{__comp__.name}}</text>
+  <text class='mytext'>hello complate4</text>  
+  <text class='mytext'> age:{{ __comp__.age }} </text>
+  <text class='mytext'> name:{{ __comp__.name }} </text>
+  
+  <button bindtap='changeText'> click me</button>
+ 
+</template>

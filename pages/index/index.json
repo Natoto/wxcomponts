@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "cmp": "../cmp/cmp2"
+  }
+}

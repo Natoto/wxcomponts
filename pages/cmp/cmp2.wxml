@@ -1,0 +1,5 @@
+<!--pages/componts/cmp2.wxml-->
+<view style='width:100%;height:50px;background:gray;'>
+  <checkbox id="checkbox" checked=""></checkbox>
+  <label for="checkbox" class="label" bindtap="labeltap"> {{title}} </label>
+</view>

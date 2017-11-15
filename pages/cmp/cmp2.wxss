@@ -1,0 +1,5 @@
+/* pages/componts/cmp2.wxss */
+
+.label {
+  color: blue;
+}
