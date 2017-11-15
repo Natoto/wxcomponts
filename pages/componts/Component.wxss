@@ -2,3 +2,12 @@
 .mytext{
   color: blue;
 }
+
+.mycontent{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(1, 1, 1 ,0.2);
+  flex-direction: column;
+  width: 100%;
+}

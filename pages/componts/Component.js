@@ -2,8 +2,8 @@
 let Component2 = {
   options: {
     "multipleSlots": true, // 在组件定义时的选项中启用多slot支持
-    "name":'helloooooooo my componts',
-    "age":12,
+    "name":'马师傅马师傅',
+    "age":54,
   },
   properties: { 
     name: "asfaslf asflas fsafl ",

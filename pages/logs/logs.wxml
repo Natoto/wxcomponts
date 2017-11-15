@@ -1,5 +1,8 @@
 <!--logs.wxml-->
+<import src="../componts/Component.wxml" />
+
 <view class="container log-list">
+  <template is="Component"  data="{{__comp__:__comp__}}" />
   <block wx:for="{{logs}}" wx:for-item="log">
     <text class="log-item">{{index + 1}}. {{log}}</text>
   </block>

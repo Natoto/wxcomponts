@@ -1,3 +1,7 @@
+
+
+@import "../componts/Component.wxss";
+
 .log-list {
   display: flex;
   flex-direction: column;

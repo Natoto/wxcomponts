@@ -1,6 +1,6 @@
 <!--index.wxml-->
 
-<import src="../componts/Component.wxml" data="{{motto:'asdfasf'}}" />
+<import src="../componts/Component.wxml" />
 <!-- <import src="../cmp/cmp2.wxml" />  -->
 
 <view class="container">
